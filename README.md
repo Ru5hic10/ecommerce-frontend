@@ -60,7 +60,7 @@ src/
 ## 🔧 Setup Instructions
 
 ```bash
-git clone https://github.com//ecommerce-frontend.git
+git clone (https://github.com/Ru5hic10/ecommerce-frontend.git)
 cd ecommerce-frontend
 npm install
 
